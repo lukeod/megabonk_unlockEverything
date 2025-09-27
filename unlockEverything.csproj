@@ -37,6 +37,4 @@
       <HintPath>Libs\Il2CppSystem.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
-
-
 </Project>
