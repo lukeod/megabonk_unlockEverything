@@ -1,0 +1,9 @@
+{
+    "name": "UnlockEverything",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/lukeod/megabonk_unlockEverything",
+    "description": "Unlocks all content in Megabonk - items, weapons, tomes, and characters",
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.733"
+    ]
+}
